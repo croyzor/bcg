@@ -10,3 +10,4 @@ Reads possibilities from "input.txt" (delimited by newlines) and writes a table 
 - Add some styling to the table
 - Add javascript(?) to allow the buttons to be clicked on/scored out
 - Allow for creation of multiple cards and come up with a naming convention
+- Allow for creation of bingo cards with a "free space" at the center
