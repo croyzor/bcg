@@ -1,0 +1,12 @@
+#+TITLE: BCG: The Bingo Card Generator
+
+* Motivation
+Do you ever have a list of strings that you wished was a bingo card? Well here you go.
+
+* Usage
+Reads possibilities from "input.txt" (delimited by newlines) and writes a table to "index.html". An example input file is included for reference
+
+* Todo
+- Add some styling to the table
+- Add javascript(?) to allow the buttons to be clicked on/scored out
+- Allow for creation of multiple cards and come up with a naming convention
